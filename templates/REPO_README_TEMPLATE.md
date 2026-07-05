@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/jai-lab-repo-cover.svg" width="100%" alt="Project cover">
+  <img src="repo-cover.svg" width="100%" alt="Project cover">
 </p>
 
 <h1 align="center">PROJECT_NAME</h1>
 
 <p align="center">
-  <b>One-line scientific mission of the repository.</b>
+  <b>ONE_LINE_MISSION</b>
 </p>
 
 <p align="center">
@@ -18,11 +18,11 @@
 
 ## What is this?
 
-Briefly explain the repository in 2–4 sentences.
+Explain the repository in 2–4 sentences.
 
 ## Why it exists
 
-Explain the scientific problem.
+Explain the scientific problem this repository solves.
 
 ## Features
 
@@ -43,6 +43,13 @@ pip install -e .
 ```bash
 python example.py
 ```
+
+## Roadmap
+
+- [ ] Documentation
+- [ ] Example notebooks
+- [ ] Benchmark results
+- [ ] Release v1.0
 
 ## Citation
 

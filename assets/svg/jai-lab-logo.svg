@@ -1,0 +1,10 @@
+<svg width="640" height="180" viewBox="0 0 640 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="640" height="180" rx="32" fill="#07111F"/>
+<circle cx="94" cy="90" r="46" fill="#0B6EFD" opacity="0.2"/>
+<circle cx="118" cy="72" r="28" fill="#00D4FF" opacity="0.35"/>
+<path d="M58 112 C88 58, 132 126, 166 68" stroke="#00D4FF" stroke-width="8" stroke-linecap="round"/>
+<circle cx="58" cy="112" r="7" fill="#EAF2FF"/>
+<circle cx="166" cy="68" r="7" fill="#EAF2FF"/>
+<text x="215" y="82" fill="#EAF2FF" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800">JAI Lab</text>
+<text x="218" y="122" fill="#9FB4CC" font-family="Inter, Arial, sans-serif" font-size="20">Open Infrastructure for Molecular Discovery</text>
+</svg>

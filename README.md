@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/svg/jai-lab-hero.svg" width="100%" alt="JAI Lab — Building Open Infrastructure for Molecular Discovery">
+  <img src="assets/svg/jai-lab-hero.svg" width="100%" alt="JAI Lab">
 </p>
 
 <h1 align="center">JAI Lab</h1>
@@ -23,16 +23,15 @@
 
 JAI Lab builds open datasets, benchmarks, scientific software, and AI systems for molecular discovery.
 
-We work across:
+The work connects synthetic chemistry, chemical biology, fluorescent probes, analytical chemistry, medicinal chemistry, machine learning, and open science.
 
-- molecular sensing
-- fluorescent probe discovery
-- analytical and forensic chemistry
-- medicinal chemistry
-- drug discovery
-- open scientific infrastructure
+---
 
-The goal is simple: make molecular discovery more reproducible, machine-readable, and useful.
+## Research Ecosystem
+
+<p align="center">
+  <img src="assets/svg/jai-lab-ecosystem.svg" width="100%" alt="JAI Lab Research Ecosystem">
+</p>
 
 ---
 
@@ -97,22 +96,14 @@ BimaneDB, Paper Organizer, benchmark templates, and reusable documentation syste
 
 ---
 
-## Research Stack
-
-<p align="center">
-  <img src="assets/svg/jai-lab-stack.svg" width="100%" alt="JAI Lab research stack">
-</p>
-
----
-
 ## Principles
 
-1. **Open science** — useful tools should be reusable.
-2. **Benchmark-first research** — progress should be measurable.
-3. **Data-centric AI** — better experimental data matters as much as better models.
-4. **Machine-readable experiments** — protocols, conditions, uncertainty, and outcomes belong in the dataset.
-5. **Experimental validation** — models should connect back to real chemistry.
-6. **Translation** — software should help researchers build useful molecules, sensors, and therapies.
+- **Open science**: useful tools should be reusable.
+- **Benchmark-first research**: progress should be measurable.
+- **Data-centric AI**: better experimental data matters as much as better models.
+- **Machine-readable experiments**: protocols, conditions, uncertainty, and outcomes belong in the dataset.
+- **Experimental validation**: models should connect back to real chemistry.
+- **Translation**: software should help researchers build useful molecules, sensors, and therapies.
 
 ---
 
@@ -122,6 +113,17 @@ BimaneDB, Paper Organizer, benchmark templates, and reusable documentation syste
 
 ---
 
-## Closing
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrJoyKarmakar&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrJoyKarmakar&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DrJoyKarmakar/DrJoyKarmakar/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake">
+</p>
+
+---
 
 > The future of molecular discovery will be built not only by better algorithms, but by better scientific infrastructure.

@@ -1,10 +1,20 @@
 <svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1600" height="520" rx="34" fill="#07111F"/>
-<circle cx="1260" cy="120" r="220" fill="#0B6EFD" opacity="0.18"/>
-<circle cx="360" cy="420" r="240" fill="#7C3AED" opacity="0.16"/>
-<path d="M140 390 C320 250, 460 470, 640 310 S980 200, 1180 330 S1390 420, 1480 250" stroke="#00D4FF" stroke-width="7" opacity="0.7"/>
-<text x="800" y="180" text-anchor="middle" fill="#EAF2FF" font-family="Inter, Arial, sans-serif" font-size="92" font-weight="800">JAI Lab</text>
-<text x="800" y="250" text-anchor="middle" fill="#9FB4CC" font-family="Inter, Arial, sans-serif" font-size="34">Building Open Infrastructure for Molecular Discovery</text>
-<text x="800" y="315" text-anchor="middle" fill="#00D4FF" font-family="Inter, Arial, sans-serif" font-size="26" letter-spacing="4">DATASETS · BENCHMARKS · AI SYSTEMS · DRUG DISCOVERY · MOLECULAR SENSING</text>
-<text x="800" y="380" text-anchor="middle" fill="#EAF2FF" font-family="Inter, Arial, sans-serif" font-size="26">Founded by Dr. Joy Karmakar</text>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#07111F"/>
+    <stop offset="0.55" stop-color="#0A1D33"/>
+    <stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+</defs>
+<rect width="1600" height="520" rx="38" fill="url(#g)"/>
+<circle cx="1300" cy="130" r="230" fill="#0B6EFD" opacity="0.18"/>
+<circle cx="260" cy="420" r="250" fill="#7C3AED" opacity="0.16"/>
+<path d="M120 370 C290 190, 470 470, 650 285 S960 220, 1160 320 S1370 410, 1490 220" stroke="#00D4FF" stroke-width="8" opacity="0.72" stroke-linecap="round"/>
+<g opacity="0.45">
+<circle cx="245" cy="295" r="8" fill="#EAF2FF"/><circle cx="480" cy="395" r="7" fill="#EAF2FF"/><circle cx="775" cy="260" r="8" fill="#EAF2FF"/><circle cx="1105" cy="305" r="7" fill="#EAF2FF"/><circle cx="1415" cy="275" r="8" fill="#EAF2FF"/>
+</g>
+<text x="800" y="170" text-anchor="middle" fill="#EAF2FF" font-family="Inter, Arial, sans-serif" font-size="94" font-weight="850">JAI Lab</text>
+<text x="800" y="244" text-anchor="middle" fill="#EAF2FF" opacity="0.9" font-family="Inter, Arial, sans-serif" font-size="36">Building Open Infrastructure for Molecular Discovery</text>
+<text x="800" y="314" text-anchor="middle" fill="#00D4FF" font-family="Inter, Arial, sans-serif" font-size="25" letter-spacing="5">DATASETS · BENCHMARKS · AI SYSTEMS · CHEMISTRY · DRUG DISCOVERY</text>
+<text x="800" y="386" text-anchor="middle" fill="#9FB4CC" font-family="Inter, Arial, sans-serif" font-size="28">An open research initiative founded by Dr. Joy Karmakar</text>
 </svg>

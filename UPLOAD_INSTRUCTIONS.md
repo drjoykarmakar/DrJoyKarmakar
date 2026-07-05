@@ -1,29 +1,34 @@
 # Upload Instructions
 
-## Profile README
+## For your profile repository
 
-Upload these files to:
+Upload these to `DrJoyKarmakar/DrJoyKarmakar`:
 
-`DrJoyKarmakar/DrJoyKarmakar`
-
-Files/folders:
 - `README.md`
-- `assets/`
+- `assets/svg/`
 - `.github/workflows/snake.yml`
 
-Then visit:
+Then open:
 
 `https://github.com/DrJoyKarmakar`
 
-## Repository README template
+## For individual repositories
 
 Use:
 
-`templates/REPO_README_TEMPLATE.md`
+- `templates/REPO_README_TEMPLATE.md`
+- one cover from `repo-covers/`
 
-Copy it into each project repository as `README.md` and edit the project name/details.
+Rename the selected cover to:
 
-## Important
+`repo-cover.svg`
 
-Do not upload this whole ZIP to `DrJoyKarmakar.github.io` unless you only want assets/templates there.
-This ZIP is mainly for your GitHub profile and repo branding system.
+Then upload it to that repository with the new README.
+
+## For branding reference
+
+Keep:
+
+- `BRAND_SYSTEM.md`
+
+This defines JAI Lab colors, voice, structure, and repository style.

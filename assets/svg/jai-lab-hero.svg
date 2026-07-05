@@ -1,0 +1,10 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="520" rx="34" fill="#07111F"/>
+<circle cx="1260" cy="120" r="220" fill="#0B6EFD" opacity="0.18"/>
+<circle cx="360" cy="420" r="240" fill="#7C3AED" opacity="0.16"/>
+<path d="M140 390 C320 250, 460 470, 640 310 S980 200, 1180 330 S1390 420, 1480 250" stroke="#00D4FF" stroke-width="7" opacity="0.7"/>
+<text x="800" y="180" text-anchor="middle" fill="#EAF2FF" font-family="Inter, Arial, sans-serif" font-size="92" font-weight="800">JAI Lab</text>
+<text x="800" y="250" text-anchor="middle" fill="#9FB4CC" font-family="Inter, Arial, sans-serif" font-size="34">Building Open Infrastructure for Molecular Discovery</text>
+<text x="800" y="315" text-anchor="middle" fill="#00D4FF" font-family="Inter, Arial, sans-serif" font-size="26" letter-spacing="4">DATASETS · BENCHMARKS · AI SYSTEMS · DRUG DISCOVERY · MOLECULAR SENSING</text>
+<text x="800" y="380" text-anchor="middle" fill="#EAF2FF" font-family="Inter, Arial, sans-serif" font-size="26">Founded by Dr. Joy Karmakar</text>
+</svg>

@@ -1,24 +1,29 @@
-# Upload instructions for JAI Lab GitHub Profile README
+# Upload Instructions
 
-This package is for the GitHub profile repository:
+## Profile README
+
+Upload these files to:
 
 `DrJoyKarmakar/DrJoyKarmakar`
 
-## Upload these files
+Files/folders:
+- `README.md`
+- `assets/`
+- `.github/workflows/snake.yml`
 
-1. `README.md` -> upload to the root of `DrJoyKarmakar/DrJoyKarmakar`
-2. `assets/svg/jai-lab-ecosystem.svg` -> upload to the same folder path
-3. `.github/workflows/snake.yml` -> optional; upload only if you want the contribution snake
+Then visit:
+
+`https://github.com/DrJoyKarmakar`
+
+## Repository README template
+
+Use:
+
+`templates/REPO_README_TEMPLATE.md`
+
+Copy it into each project repository as `README.md` and edit the project name/details.
 
 ## Important
 
-This is NOT for `DrJoyKarmakar.github.io`.
-
-Your personal website repo is different. This README is for the special GitHub profile repository.
-
-## After upload
-
-1. Commit changes.
-2. Open `https://github.com/DrJoyKarmakar`.
-3. The README should appear on your GitHub profile.
-4. The snake animation may take one GitHub Action run before it appears.
+Do not upload this whole ZIP to `DrJoyKarmakar.github.io` unless you only want assets/templates there.
+This ZIP is mainly for your GitHub profile and repo branding system.

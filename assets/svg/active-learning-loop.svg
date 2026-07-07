@@ -1,0 +1,49 @@
+<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="JAI Lab graphic">
+  <title>JAI Lab</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.48" stop-color="#0B1730"/>
+      <stop offset="1" stop-color="#07111F"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#00D4FF"/>
+      <stop offset="1" stop-color="#6EE7F9"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="7" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font: 800 64px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #F8FAFC; letter-spacing: -1.5px; }
+      .subtitle { font: 600 28px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #BDEFFF; }
+      .body { font: 500 18px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #CBD5E1; }
+      .small { font: 600 14px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #94A3B8; letter-spacing: .8px; }
+      .chip { font: 700 14px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #E0F2FE; }
+      .cardtitle { font: 800 20px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #F8FAFC; }
+      .cardtext { font: 500 14px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #B8C7D9; }
+      .mono { font: 700 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #67E8F9; }
+    </style>
+  </defs>
+  <rect width="1400" height="520" rx="32" fill="url(#bg)"/>
+  <text x="700" y="72" text-anchor="middle" class="title" style="font-size:42px">Active learning for molecular sensing</text>
+  <text x="700" y="112" text-anchor="middle" class="body">A reproducible workflow for choosing the next most informative molecule or experiment.</text>
+  <circle cx="700" cy="280" r="118" fill="#0B2138" stroke="#22D3EE" stroke-width="3"/>
+  <text x="700" y="268" text-anchor="middle" class="cardtitle">Uncertainty-aware</text>
+  <text x="700" y="298" text-anchor="middle" class="cardtitle">molecular AI</text>
+  <g transform="translate(130 210)"><rect width="230" height="100" rx="20" fill="#0B2138" stroke="#60A5FA"/><text x="115" y="43" text-anchor="middle" class="cardtitle">Candidate pool</text><text x="115" y="70" text-anchor="middle" class="cardtext">molecules and sensors</text></g>
+  <g transform="translate(520 55)"><rect width="360" height="95" rx="20" fill="#0B2138" stroke="#A78BFA"/><text x="180" y="40" text-anchor="middle" class="cardtitle">Design next experiment</text><text x="180" y="66" text-anchor="middle" class="cardtext">information gain, diversity, feasibility</text></g>
+  <g transform="translate(1040 210)"><rect width="230" height="100" rx="20" fill="#0B2138" stroke="#2DD4BF"/><text x="115" y="43" text-anchor="middle" class="cardtitle">Run assay</text><text x="115" y="70" text-anchor="middle" class="cardtext">spectra, response, controls</text></g>
+  <g transform="translate(520 390)"><rect width="360" height="95" rx="20" fill="#0B2138" stroke="#34D399"/><text x="180" y="40" text-anchor="middle" class="cardtitle">Update dataset</text><text x="180" y="66" text-anchor="middle" class="cardtext">schema, metadata, uncertainty</text></g>
+  <path d="M360 260 C455 205 530 167 610 142" stroke="#38BDF8" stroke-width="3" fill="none"/>
+  <path d="M790 142 C930 165 1010 210 1040 255" stroke="#38BDF8" stroke-width="3" fill="none"/>
+  <path d="M1120 310 C1030 398 930 437 880 437" stroke="#38BDF8" stroke-width="3" fill="none"/>
+  <path d="M520 437 C410 402 330 338 290 310" stroke="#38BDF8" stroke-width="3" fill="none"/>
+</svg>

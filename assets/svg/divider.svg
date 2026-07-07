@@ -1,4 +1,4 @@
-<svg width="1400" height="240" viewBox="0 0 1400 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="JAI Lab graphic">
+<svg width="1400" height="120" viewBox="0 0 1400 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="JAI Lab graphic">
   <title>JAI Lab</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="520" gradientUnits="userSpaceOnUse">
@@ -32,11 +32,9 @@
       .mono { font: 700 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #67E8F9; }
     </style>
   </defs>
-  <rect width="1400" height="240" rx="30" fill="url(#bg)"/>
-  <g opacity="0.35" stroke="#38BDF8" stroke-width="1.5">
-    <path d="M70 150 C260 60 360 205 525 125 S810 52 975 128 S1180 205 1325 92"/>
-  </g>
-  <text x="700" y="88" text-anchor="middle" class="small">JAI LAB</text>
-  <text x="700" y="132" text-anchor="middle" class="subtitle">Make molecular discovery reproducible, programmable, and open.</text>
-  <text x="700" y="172" text-anchor="middle" class="body">Open datasets. Open benchmarks. Open scientific software. Open molecular AI.</text>
+  <rect width="1400" height="120" rx="24" fill="#07111F"/>
+  <path d="M80 60 H1320" stroke="url(#cyan)" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+  <circle cx="700" cy="60" r="9" fill="#67E8F9"/>
+  <circle cx="640" cy="60" r="5" fill="#A78BFA"/>
+  <circle cx="760" cy="60" r="5" fill="#A78BFA"/>
 </svg>

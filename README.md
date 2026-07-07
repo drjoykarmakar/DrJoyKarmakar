@@ -2,7 +2,7 @@
 
 <img src="assets/svg/jai-lab-hero.svg" width="100%" alt="JAI Lab - Open Infrastructure for Molecular Discovery" />
 
-# Joy Karmakar, Ph.D.
+# Dr. Joy Karmakar
 
 ### Medicinal chemist building open infrastructure for AI-powered molecular discovery.
 
@@ -15,7 +15,7 @@
 
 **Medicinal chemistry | chemical biology | fluorescent probes | transporter biology | spectroscopy | QSAR | molecular AI | open science**
 
-**Recognition:** UCSF PBBR Independent Research Award · Harvard Business School Foundry Bootcamp · ACS Postdoc to Faculty · Sigma Xi Full Member · Excellence in Doctoral Research Award · NCCR Bioinspired / Swiss Academy Special Sponsor Award
+**Recognition:** UCSF PBBR Independent Research Award · Harvard Business School Foundry Bootcamp · ACS Postdoc to Faculty · Sigma Xi Full Member · Excellence in Doctoral Research Award · NCCR Bioinspired / EYCN & Swiss Academy Sciences Special Sponsor Award
 
 </div>
 
@@ -29,7 +29,7 @@ The thesis is simple:
 
 > The next leap in molecular AI will come not only from larger models, but from better scientific infrastructure: cleaner datasets, stronger benchmarks, reproducible software, and experiments that machines can actually read.
 
-JAI Lab connects synthetic chemistry, fluorescent probes, transporter biology, analytical chemistry, molecular modeling, machine learning, and open-source scientific software.
+I am connecting synthetic chemistry, fluorescent probes, transporter biology, analytical chemistry, molecular modeling, machine learning, and open-source scientific software.
 
 <div align="center">
 
@@ -87,7 +87,7 @@ The recognition portfolio spans independent biomedical research funding, faculty
 
 ---
 
-## JAI Lab ecosystem
+## The ecosystem
 
 <div align="center">
 
@@ -98,9 +98,9 @@ The recognition portfolio spans independent biomedical research funding, faculty
 | Program | Core question | Public artifact |
 |---|---|---|
 | **SensorGenome** | How do we make molecular sensing experiments machine-readable and benchmarkable? | Dataset schemas, benchmark cards, active-learning workflows |
-| **DyeMind** | Can AI accelerate fluorescent probe and fluorophore discovery? | Predictive models, generative design ideas, fluorophore datasets |
+| **DyeMind** | Can AI accelerate fluorophore discovery? | Predictive models, generative design ideas, fluorophore datasets |
 | **NarcoticSense AI** | Can spectroscopy and chemometrics provide useful chemical intelligence? | Spectral preprocessing, classification, analysis pipelines |
-| **AZAI** | How can molecular sensing support xylazine and emerging adulterant analytics? | Xylazine-centered computational and sensing workflows |
+| **AZAI** | How can molecular sensing support analytics for xylazine and emerging adulterants? | Xylazine-centered computational and sensing workflows |
 | **Molecular Discovery Suite** | How can QSAR, docking, SAR, and ADMET support transporter-focused drug discovery? | Pendrin, PAT1, CFTR, and related molecular modeling workflows |
 | **Open Science Tools** | How do we make research reusable by default? | Templates, dataset cards, benchmark cards, documentation systems |
 

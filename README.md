@@ -198,8 +198,7 @@ Key research areas include ion transporter chemical biology, small-molecule drug
 ## GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrJoyKarmakar&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrJoyKarmakar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrJoyKarmakar&theme=tokyonight" width="100%" alt="GitHub Profile Summary">
 </p>
 
 <p align="center">
@@ -207,7 +206,7 @@ Key research areas include ion transporter chemical biology, small-molecule drug
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrJoyKarmakar&theme=tokyo-night&hide_border=true&hide_title=false&area=true" width="100%" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrJoyKarmakar&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph">
 </p>
 
 ---

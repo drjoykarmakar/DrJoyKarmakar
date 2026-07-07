@@ -24,3 +24,10 @@ h1 { font-size: clamp(44px, 8vw, 84px); line-height: 0.95; margin: 16px 0; lette
 article { padding: 26px; background: rgba(11, 33, 56, .82); border: 1px solid rgba(148, 163, 184, .20); border-radius: 24px; }
 article h2 { margin-top: 0; }
 article p { color: var(--muted); }
+
+.recognition { margin-top: 28px; padding: 34px; border-radius: 28px; border: 1px solid rgba(251, 191, 36, .28); background: rgba(8, 22, 41, .72); }
+.recognition h2 { font-size: clamp(28px, 4vw, 46px); letter-spacing: -0.04em; margin: 10px 0 24px; }
+.recognition-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 14px; }
+.recognition-grid article { padding: 20px; border-radius: 20px; background: rgba(11, 33, 56, .82); border: 1px solid rgba(251, 191, 36, .18); }
+.recognition-grid strong { color: #FBBF24; }
+.recognition-grid h3 { margin: 8px 0; }

@@ -10,6 +10,10 @@
 
 I build open datasets, benchmarks, scientific software, and AI workflows for molecular discovery across medicinal chemistry, fluorescent probes, spectroscopy, transporter biology, and open science.
 
+## Recognition
+
+UCSF PBBR Postdoctoral Independent Research Award · Harvard Business School Foundry Bootcamp · ACS Postdoc to Faculty Workshop · Sigma Xi Full Member · Excellence in Doctoral Research Award · NCCR Bioinspired / Swiss Academy Special Sponsor Award
+
 ## Start here
 
 - [SensorGenome](https://github.com/drjoykarmakar/SensorGenome) - molecular sensing datasets and benchmarks

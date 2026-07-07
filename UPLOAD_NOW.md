@@ -88,4 +88,4 @@ Run this checklist:
 
 ## Recognition wall included
 
-The updated profile uses `assets/svg/recognition-wall.svg`. Upload the entire `assets/` folder with `README.md`.
+The updated profile uses `assets/svg/recognition-wall.svg`. Upload the entire `assets/` folder with `README.md` so the awards section renders correctly.

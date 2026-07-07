@@ -3,7 +3,7 @@
 ## Public profile
 
 - `README.md` - root GitHub profile README for `DrJoyKarmakar`
-- `assets/svg/` - visual identity and diagrams used by the README
+- `assets/svg/` - visual identity and diagrams used by the README, including `recognition-wall.svg`
 
 ## Governance
 
@@ -30,6 +30,7 @@
 - `docs/DATASET_STRATEGY.md`
 - `docs/BENCHMARK_STRATEGY.md`
 - `docs/PUBLICATION_INTEGRATION.md`
+- `docs/HONORS_AND_RECOGNITION.md`
 - `docs/COMMUNITY_MODEL.md`
 
 ## Templates

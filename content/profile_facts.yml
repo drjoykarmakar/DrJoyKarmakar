@@ -23,11 +23,25 @@ research_areas:
   - AI/ML-guided molecular design
   - open-source scientific software
 awards:
-  - UCSF PBBR Postdoctoral Independent Research Award, 2024
-  - ACS Postdoc to Faculty Workshop, 2025
-  - Harvard Business School Foundry Bootcamp, 2026
-  - Sigma Xi Full Member, 2026
-  - Excellence in Doctoral Research Award, 2022
+  - name: UCSF PBBR Postdoctoral Independent Research Award
+    year: 2024
+    signal: Independent high-risk, high-reward biomedical research funding
+    project: Selective Fluorescent Sensor for 'Zombie Drug' Xylazine
+  - name: Harvard Business School Foundry Bootcamp
+    year: 2026
+    signal: Venture development, market validation, and investor-pitch training
+  - name: ACS Postdoc to Faculty Workshop
+    year: 2025
+    signal: Competitive faculty-transition mentorship and training
+  - name: Sigma Xi Full Member
+    year: 2026
+    signal: The Scientific Research Honor Society
+  - name: Excellence in Doctoral Research Award
+    year: 2022
+    signal: School of Graduate Studies, Ari'el University; NIS 5000 award
+  - name: Special Sponsor Award, NCCR Bioinspired / Swiss Academy of Sciences
+    year: 2022
+    signal: European Young Chemists Meeting, Fribourg, Switzerland
 repositories:
   - SensorGenome
   - NarcoticSense-AI

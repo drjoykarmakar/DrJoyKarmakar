@@ -1,0 +1,112 @@
+<svg width="1400" height="720" viewBox="0 0 1400 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Recognition and honors for Dr. Joy Karmakar">
+  <title>Recognition and Honors</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0B1730"/>
+      <stop offset="1" stop-color="#07111F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#00D4FF"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FBBF24"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="softGlow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .eyebrow { font: 800 15px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #67E8F9; letter-spacing: 2.4px; }
+      .title { font: 850 50px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #F8FAFC; letter-spacing: -1.4px; }
+      .subtitle { font: 550 19px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #CBD5E1; }
+      .cardTitle { font: 800 24px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #F8FAFC; letter-spacing: -0.3px; }
+      .cardSub { font: 650 15px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #BDEFFF; }
+      .cardBody { font: 520 14px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #CBD5E1; }
+      .year { font: 850 18px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #07111F; }
+      .tag { font: 750 12px Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial; fill: #CFFAFE; letter-spacing: 1.2px; }
+    </style>
+  </defs>
+  <rect width="1400" height="720" rx="34" fill="url(#bg)"/>
+  <g opacity="0.34" filter="url(#softGlow)">
+    <circle cx="1120" cy="120" r="220" fill="#0EA5E9"/>
+    <circle cx="250" cy="655" r="250" fill="#8B5CF6"/>
+    <circle cx="650" cy="80" r="130" fill="#14B8A6"/>
+  </g>
+  <g opacity="0.26" stroke="#38BDF8" stroke-width="1.2">
+    <path d="M92 158 C260 50 425 250 620 122 S940 42 1282 150"/>
+    <path d="M122 638 C315 495 490 695 705 545 S1035 428 1278 590"/>
+    <path d="M145 110 L255 190 L385 130 L515 210 L670 150 L820 230 L988 170 L1162 248 L1290 205"/>
+  </g>
+  <text x="700" y="72" text-anchor="middle" class="eyebrow">RECOGNITION / COMPETITIVE PROGRAMS / RESEARCH HONORS</text>
+  <text x="700" y="130" text-anchor="middle" class="title">Awards that signal independent scientific trajectory</text>
+  <text x="700" y="168" text-anchor="middle" class="subtitle">Funding, faculty-development, commercialization, honor-society, doctoral, and international conference recognition</text>
+
+  <g transform="translate(80 215)">
+    <rect width="390" height="190" rx="26" fill="#081629" fill-opacity="0.82" stroke="#22D3EE" stroke-opacity="0.55"/>
+    <circle cx="46" cy="48" r="24" fill="url(#gold)"/>
+    <text x="46" y="55" text-anchor="middle" class="year">24</text>
+    <text x="84" y="42" class="tag">INDEPENDENT FUNDING</text>
+    <text x="34" y="90" class="cardTitle">UCSF PBBR Award</text>
+    <text x="34" y="121" class="cardSub">Postdoctoral Independent Research Award</text>
+    <text x="34" y="150" class="cardBody">Selective fluorescent sensor for xylazine</text>
+    <text x="34" y="173" class="cardBody">High-risk, high-reward biomedical research</text>
+  </g>
+
+  <g transform="translate(505 215)">
+    <rect width="390" height="190" rx="26" fill="#081629" fill-opacity="0.82" stroke="#A78BFA" stroke-opacity="0.55"/>
+    <circle cx="46" cy="48" r="24" fill="url(#accent)"/>
+    <text x="46" y="55" text-anchor="middle" class="year">26</text>
+    <text x="84" y="42" class="tag">VENTURE TRANSLATION</text>
+    <text x="34" y="90" class="cardTitle">Harvard Business School</text>
+    <text x="34" y="121" class="cardSub">Foundry Bootcamp, June Cohort</text>
+    <text x="34" y="150" class="cardBody">Market validation, venture development,</text>
+    <text x="34" y="173" class="cardBody">and investor-pitch training</text>
+  </g>
+
+  <g transform="translate(930 215)">
+    <rect width="390" height="190" rx="26" fill="#081629" fill-opacity="0.82" stroke="#60A5FA" stroke-opacity="0.55"/>
+    <circle cx="46" cy="48" r="24" fill="#67E8F9"/>
+    <text x="46" y="55" text-anchor="middle" class="year">25</text>
+    <text x="84" y="42" class="tag">FACULTY TRAJECTORY</text>
+    <text x="34" y="90" class="cardTitle">ACS Postdoc to Faculty</text>
+    <text x="34" y="121" class="cardSub">ACSP2F Workshop, Washington DC</text>
+    <text x="34" y="150" class="cardBody">Competitive mentoring and training for</text>
+    <text x="34" y="173" class="cardBody">the transition to faculty positions</text>
+  </g>
+
+  <g transform="translate(80 445)">
+    <rect width="390" height="190" rx="26" fill="#081629" fill-opacity="0.82" stroke="#2DD4BF" stroke-opacity="0.55"/>
+    <circle cx="46" cy="48" r="24" fill="#2DD4BF"/>
+    <text x="46" y="55" text-anchor="middle" class="year">26</text>
+    <text x="84" y="42" class="tag">SCIENTIFIC HONOR SOCIETY</text>
+    <text x="34" y="90" class="cardTitle">Sigma Xi Full Member</text>
+    <text x="34" y="121" class="cardSub">The Scientific Research Honor Society</text>
+    <text x="34" y="150" class="cardBody">Recognition within one of the major</text>
+    <text x="34" y="173" class="cardBody">international scientific honor societies</text>
+  </g>
+
+  <g transform="translate(505 445)">
+    <rect width="390" height="190" rx="26" fill="#081629" fill-opacity="0.82" stroke="#FBBF24" stroke-opacity="0.55"/>
+    <circle cx="46" cy="48" r="24" fill="#FBBF24"/>
+    <text x="46" y="55" text-anchor="middle" class="year">22</text>
+    <text x="84" y="42" class="tag">DOCTORAL DISTINCTION</text>
+    <text x="34" y="90" class="cardTitle">Excellence in Doctoral</text>
+    <text x="34" y="121" class="cardTitle">Research Award</text>
+    <text x="34" y="150" class="cardBody">Ari&apos;el University Graduate Studies</text>
+    <text x="34" y="173" class="cardBody">NIS 5000 research award</text>
+  </g>
+
+  <g transform="translate(930 445)">
+    <rect width="390" height="190" rx="26" fill="#081629" fill-opacity="0.82" stroke="#818CF8" stroke-opacity="0.55"/>
+    <circle cx="46" cy="48" r="24" fill="#A78BFA"/>
+    <text x="46" y="55" text-anchor="middle" class="year">22</text>
+    <text x="84" y="42" class="tag">INTERNATIONAL RECOGNITION</text>
+    <text x="34" y="90" class="cardTitle">Special Sponsor Award</text>
+    <text x="34" y="121" class="cardSub">NCCR Bioinspired / Swiss Academy</text>
+    <text x="34" y="150" class="cardBody">European Young Chemists Meeting</text>
+    <text x="34" y="173" class="cardBody">Fribourg, Switzerland</text>
+  </g>
+</svg>

@@ -2,7 +2,7 @@
 
 <img src="assets/svg/jai-lab-hero.svg" width="100%" alt="JAI Lab - Open Infrastructure for Molecular Discovery" />
 
-# Dr. Joy Karmakar
+# Joy Karmakar, Ph.D.
 
 ### Medicinal chemist building open infrastructure for AI-powered molecular discovery.
 
@@ -14,6 +14,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-drjoykarmakar-111111?style=for-the-badge&logo=github)](https://github.com/drjoykarmakar)
 
 **Medicinal chemistry | chemical biology | fluorescent probes | transporter biology | spectroscopy | QSAR | molecular AI | open science**
+
+**Recognition:** UCSF PBBR Independent Research Award · Harvard Business School Foundry Bootcamp · ACS Postdoc to Faculty · Sigma Xi Full Member · Excellence in Doctoral Research Award · NCCR Bioinspired / Swiss Academy Special Sponsor Award
 
 </div>
 
@@ -44,8 +46,29 @@ JAI Lab connects synthetic chemistry, fluorescent probes, transporter biology, a
 | **Scientific base** | Medicinal chemistry, synthetic organic chemistry, fluorescent probes, chemical biology, ion transporter pharmacology |
 | **Research output** | 8 peer-reviewed publications; h-index 6; 75 citations as listed in my June 2026 CV |
 | **Independent funding** | UCSF PBBR Postdoctoral Independent Research Award for a xylazine fluorescent sensor project |
-| **Translational training** | Harvard Business School Foundry Bootcamp, ACS Postdoc to Faculty Workshop, Sigma Xi Full Member |
+| **Recognition portfolio** | Harvard Business School Foundry Bootcamp; ACS Postdoc to Faculty Workshop; Sigma Xi Full Member; Excellence in Doctoral Research Award; NCCR Bioinspired / Swiss Academy Special Sponsor Award |
 | **Open-source direction** | Public GitHub projects spanning sensing, spectroscopy, QSAR, docking, paper organization, and molecular datasets |
+
+---
+
+## Recognition and honors
+
+The recognition portfolio spans independent biomedical research funding, faculty-track preparation, scientific entrepreneurship, doctoral excellence, and international chemistry-program recognition.
+
+<div align="center">
+
+<img src="assets/svg/recognition-wall.svg" width="100%" alt="Recognition and honors: UCSF PBBR, Harvard Business School Foundry, ACS Postdoc to Faculty, Sigma Xi, doctoral excellence, and international sponsor award" />
+
+</div>
+
+| Recognition | Year | Signal |
+|---|---:|---|
+| **UCSF PBBR Postdoctoral Independent Research Award** | 2024 | Independent high-risk, high-reward biomedical research funding for a xylazine fluorescent sensor project |
+| **Harvard Business School Foundry Bootcamp** | 2026 | Entrepreneurship, venture development, market validation, and investor-pitch training |
+| **ACS Postdoc to Faculty Workshop** | 2025 | Competitive faculty-transition mentoring and career-development program |
+| **Sigma Xi Full Member** | 2026 | Induction into The Scientific Research Honor Society |
+| **Excellence in Doctoral Research Award** | 2022 | Doctoral research recognition from the School of Graduate Studies, Ari'el University |
+| **Special Sponsor Award, NCCR Bioinspired / Swiss Academy of Sciences** | 2022 | International recognition at the European Young Chemists Meeting, Fribourg, Switzerland |
 
 ---
 

@@ -84,3 +84,8 @@ Run this checklist:
 - Confirm claims are still accurate.
 - Update roadmap checkboxes as work is completed.
 - Add citations or DOI links to publication pages when available.
+
+
+## Recognition wall included
+
+The updated profile uses `assets/svg/recognition-wall.svg`. Upload the entire `assets/` folder with `README.md`.

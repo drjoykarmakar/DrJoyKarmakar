@@ -2,7 +2,7 @@
 
 <img src="assets/svg/profile-header.svg" width="100%" alt="Joy Karmakar scientific profile header" />
 
-# Joy Karmakar, Ph.D.
+# Dr. Joy Karmakar
 
 **Medicinal chemistry · chemical biology · fluorescent probes · transporter biology · molecular modeling · AI/ML for chemistry**
 

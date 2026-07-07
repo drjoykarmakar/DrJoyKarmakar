@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://joykarmakar.com"><img src="https://img.shields.io/badge/Website-joykarmakar.com-0B6EFD?style=for-the-badge"></a>
-  <a href="https://scholar.google.com/citations?user=uaIKU0oAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-1A73E8?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/joykarmakarchem"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge"></a>
-  <a href="https://x.com/Joy_Karmakar"><img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge"></a>
+  <a href="https://joykarmakar.com"><img src="https://img.shields.io/badge/Website-joykarmakar.com-0B6EFD?style=for-the-badge" alt="Website"></a>
+  <a href="https://scholar.google.com/citations?user=uaIKU0oAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-1A73E8?style=for-the-badge" alt="Google Scholar"></a>
+  <a href="https://www.linkedin.com/in/joykarmakarchem"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://x.com/Joy_Karmakar"><img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge" alt="X"></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=Open+Infrastructure+for+Molecular+Discovery;Datasets+%E2%80%A2+Benchmarks+%E2%80%A2+Scientific+Software;Molecular+Sensing+%E2%80%A2+Drug+Discovery+%E2%80%A2+Open+Science;SensorGenome+%E2%80%A2+DyeMind+%E2%80%A2+AZAI+%E2%80%A2+NarcoticSense+AI">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=900&lines=Open+Infrastructure+for+Molecular+Discovery;Datasets+%E2%80%A2+Benchmarks+%E2%80%A2+Scientific+Software;Molecular+Sensing+%E2%80%A2+Drug+Discovery+%E2%80%A2+Open+Science;SensorGenome+%E2%80%A2+DyeMind+%E2%80%A2+AZAI+%E2%80%A2+NarcoticSense+AI" alt="Typing SVG">
 </p>
 
 ---
@@ -80,6 +80,7 @@ Generative and predictive models for fluorophore and fluorescent probe design.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -98,6 +99,7 @@ Machine learning, chemometrics, and spectroscopy tools for analytical chemistry.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -120,7 +122,7 @@ BimaneDB, Paper Organizer, benchmark templates, and reusable documentation syste
 
 ---
 
-## Scientific foundation
+## Scientific Foundation
 
 Dr. Joy Karmakar's research spans:
 
@@ -137,13 +139,13 @@ Key research areas include ion transporter chemical biology, small-molecule drug
 
 ---
 
-## Selected research impact
+## Selected Research Impact
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏆 Awards & programs
+### 🏆 Awards & Programs
 
 - UCSF PBBR Postdoctoral Independent Research Award
 - ACS Postdoc to Faculty Workshop
@@ -154,7 +156,7 @@ Key research areas include ion transporter chemical biology, small-molecule drug
 </td>
 <td width="50%">
 
-### 📚 Publication areas
+### 📚 Publication Areas
 
 - European Journal of Medicinal Chemistry
 - RSC Medicinal Chemistry
@@ -170,7 +172,7 @@ Key research areas include ion transporter chemical biology, small-molecule drug
 
 ---
 
-## Research principles
+## Research Principles
 
 | Principle | Meaning |
 |---|---|
@@ -183,33 +185,29 @@ Key research areas include ion transporter chemical biology, small-molecule drug
 
 ---
 
-## Technical capabilities
+## Technical Capabilities
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,githubactions,linux,vscode,fastapi,aws">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,githubactions,linux,vscode,fastapi,aws" alt="Technical Skills">
 </p>
 
 **Chemistry & molecular science:** RDKit, ChemDraw, AutoDock, AutoDock Vina, Maestro, SwissADME, ADMETlab, ORCA, Avogadro, spectroscopy, fluorescence, HPLC, LC-MS, NMR.
 
 ---
 
-## GitHub dashboard
+## GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrJoyKarmakar&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrJoyKarmakar&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrJoyKarmakar&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrJoyKarmakar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrJoyKarmakar&theme=tokyonight&hide_border=true" width="58%">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=DrJoyKarmakar&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrJoyKarmakar&theme=tokyo-night&hide_border=true" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DrJoyKarmakar/DrJoyKarmakar/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrJoyKarmakar&theme=tokyo-night&hide_border=true&hide_title=false&area=true" width="100%" alt="GitHub Activity Graph">
 </p>
 
 ---

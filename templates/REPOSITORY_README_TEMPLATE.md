@@ -1,19 +1,31 @@
 # Project Name
 
-One-sentence description.
+> One-line description of what this project does and why it matters.
 
 ## Why this exists
 
-## Installation
+Explain the scientific or technical problem.
 
-## Quickstart
+## What is included
 
-## Data
+- data
+- notebooks
+- source code
+- documentation
+- examples
 
-## Methods
+## Quick start
+
+```bash
+git clone <repo-url>
+cd <repo-name>
+pip install -r requirements.txt
+```
 
 ## Reproducibility
 
+Describe data sources, versions, seeds, and environment requirements.
+
 ## Citation
 
-## License
+Add citation details here.

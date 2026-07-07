@@ -1,3 +1,5 @@
 # Security Policy
 
-Please do not open public issues for sensitive security problems. Report vulnerabilities privately through GitHub security advisories when available, or contact the maintainer through the public website.
+Please do not open public issues for vulnerabilities, exposed credentials, sensitive data, or unsafe workflows.
+
+Report security concerns privately through the contact channels listed on the GitHub profile or website.

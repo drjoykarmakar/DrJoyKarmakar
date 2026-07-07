@@ -1,5 +1,5 @@
 # Code of Conduct
 
-This project is committed to a respectful, inclusive, and constructive research environment.
+JAI Lab projects are open scientific spaces. Contributors are expected to communicate respectfully, assume good intent, and prioritize constructive technical and scientific discussion.
 
-Be professional, evidence-driven, and kind. Harassment, discrimination, personal attacks, or abusive behavior are not acceptable.
+Harassment, discrimination, personal attacks, or bad-faith behavior are not acceptable.

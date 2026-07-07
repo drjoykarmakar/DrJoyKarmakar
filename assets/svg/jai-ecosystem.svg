@@ -1,0 +1,15 @@
+<svg width="1600" height="760" viewBox="0 0 1600 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1600" height="760" rx="30" fill="#020617"/>
+<circle cx="800" cy="380" r="160" fill="#082F49" stroke="#67E8F9" stroke-width="3"/>
+<text x="800" y="360" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Arial" font-size="54" font-weight="800">JAI Lab</text>
+<text x="800" y="412" text-anchor="middle" fill="#BAE6FD" font-family="Inter, Arial" font-size="24">Molecular Discovery Infrastructure</text>
+<g font-family="Inter, Arial" font-weight="700">
+<g><rect x="90" y="95" width="360" height="120" rx="22" fill="#0F172A" stroke="#22D3EE"/><text x="270" y="145" text-anchor="middle" fill="#E0F2FE" font-size="32">SensorGenome</text><text x="270" y="184" text-anchor="middle" fill="#94A3B8" font-size="20">Sensing datasets + benchmarks</text></g>
+<g><rect x="1150" y="95" width="360" height="120" rx="22" fill="#0F172A" stroke="#F0ABFC"/><text x="1330" y="145" text-anchor="middle" fill="#FAE8FF" font-size="32">DyeMind</text><text x="1330" y="184" text-anchor="middle" fill="#94A3B8" font-size="20">Fluorescent probe AI</text></g>
+<g><rect x="90" y="540" width="360" height="120" rx="22" fill="#0F172A" stroke="#A7F3D0"/><text x="270" y="590" text-anchor="middle" fill="#ECFDF5" font-size="32">NarcoticSense AI</text><text x="270" y="629" text-anchor="middle" fill="#94A3B8" font-size="20">Spectroscopy + chemometrics</text></g>
+<g><rect x="1150" y="540" width="360" height="120" rx="22" fill="#0F172A" stroke="#FDE68A"/><text x="1330" y="590" text-anchor="middle" fill="#FEF3C7" font-size="32">AZAI</text><text x="1330" y="629" text-anchor="middle" fill="#94A3B8" font-size="20">Xylazine analytics</text></g>
+<g><rect x="90" y="318" width="360" height="120" rx="22" fill="#0F172A" stroke="#C4B5FD"/><text x="270" y="368" text-anchor="middle" fill="#F5F3FF" font-size="32">Discovery Suite</text><text x="270" y="407" text-anchor="middle" fill="#94A3B8" font-size="20">QSAR · docking · SAR · ADMET</text></g>
+<g><rect x="1150" y="318" width="360" height="120" rx="22" fill="#0F172A" stroke="#93C5FD"/><text x="1330" y="368" text-anchor="middle" fill="#DBEAFE" font-size="32">Open Science Tools</text><text x="1330" y="407" text-anchor="middle" fill="#94A3B8" font-size="20">Templates + documentation</text></g>
+</g>
+<g stroke="#334155" stroke-width="3"><path d="M450 155L640 305"/><path d="M1150 155L960 305"/><path d="M450 378L640 378"/><path d="M1150 378L960 378"/><path d="M450 600L640 455"/><path d="M1150 600L960 455"/></g>
+</svg>

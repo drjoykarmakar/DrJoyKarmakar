@@ -1,0 +1,17 @@
+<svg width="1600" height="480" viewBox="0 0 1600 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1600" y2="480" gradientUnits="userSpaceOnUse"><stop stop-color="#020617"/><stop offset="0.48" stop-color="#082F49"/><stop offset="1" stop-color="#111827"/></linearGradient>
+<radialGradient id="r" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1180 150) rotate(132) scale(540 280)"><stop stop-color="#22D3EE" stop-opacity="0.55"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="480" rx="34" fill="url(#g)"/>
+<rect width="1600" height="480" rx="34" fill="url(#r)"/>
+<g opacity="0.38" stroke="#67E8F9" stroke-width="2">
+<circle cx="1240" cy="150" r="18"/><circle cx="1320" cy="245" r="14"/><circle cx="1135" cy="280" r="16"/><circle cx="1040" cy="175" r="11"/><circle cx="1415" cy="165" r="12"/>
+<path d="M1258 165L1307 232M1224 163L1149 268M1150 267L1050 184M1334 237L1403 174"/>
+</g>
+<g opacity="0.18" stroke="#E0F2FE"><path d="M0 390C210 310 322 460 520 370C735 272 865 384 1040 298C1210 214 1398 250 1600 180"/><path d="M0 322C230 248 370 386 560 306C760 222 926 318 1108 232C1280 152 1442 178 1600 102"/></g>
+<text x="92" y="150" fill="#E0F2FE" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="700">JAI Lab</text>
+<text x="92" y="230" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="800">Open Infrastructure for</text>
+<text x="92" y="306" fill="#67E8F9" font-family="Inter, Arial, sans-serif" font-size="64" font-weight="800">Molecular Discovery</text>
+<text x="96" y="370" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="27">Datasets · Benchmarks · Molecular AI · Scientific Software · Open Science</text>
+</svg>

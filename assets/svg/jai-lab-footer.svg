@@ -1,7 +1,0 @@
-<svg width="1600" height="220" viewBox="0 0 1600 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="JAI Lab footer">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1600" y2="220"><stop stop-color="#050816"/><stop offset="0.5" stop-color="#071B2F"/><stop offset="1" stop-color="#050816"/></linearGradient></defs>
-  <rect width="1600" height="220" rx="32" fill="url(#g)"/>
-  <text x="800" y="92" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="800">JAI Lab</text>
-  <text x="800" y="138" text-anchor="middle" fill="#A7F3D0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Making molecular discovery reproducible, programmable, and collaborative.</text>
-  <path d="M380 170H1220" stroke="#00D4FF" stroke-opacity="0.45" stroke-width="3" stroke-linecap="round"/>
-</svg>

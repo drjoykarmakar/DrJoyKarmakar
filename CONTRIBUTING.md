@@ -1,58 +1,19 @@
-# Contributing to JAI Lab
+# Contributing
 
-Thank you for your interest in contributing to JAI Lab.
+Thank you for your interest in contributing. Contributions are welcome in documentation, examples, data curation, tests, bug reports, and scientific workflows.
 
-JAI Lab welcomes contributions that improve open infrastructure for molecular discovery, including datasets, schemas, benchmarks, scientific software, documentation, reproducibility checks, tutorials, and examples.
+## Good first contributions
 
-## Ways to contribute
+- Improve README clarity
+- Add reproducible examples
+- Add tests for data-processing functions
+- Report broken links or environment issues
+- Suggest dataset schema improvements
 
-- Improve documentation or examples.
-- Suggest datasets or benchmark tasks.
-- Report bugs or unclear workflows.
-- Add tests, validation scripts, or reproducibility checks.
-- Improve code quality, packaging, or automation.
-- Propose new scientific use cases.
+## Pull request checklist
 
-## Contribution workflow
-
-1. Open an issue describing the problem or proposed improvement.
-2. Fork the repository.
-3. Create a branch with a clear name.
-4. Make a focused change.
-5. Add tests or validation where appropriate.
-6. Open a pull request using the template.
-
-## Scientific standards
-
-Contributions involving chemistry, biology, spectroscopy, datasets, or molecular modeling should include:
-
-- clear assumptions
-- data provenance
-- units and experimental conditions
-- uncertainty or limitations when applicable
-- software versions and reproducibility notes
-- citations for external datasets, papers, or tools
-
-## Code standards
-
-- Prefer readable, documented code.
-- Include examples for public-facing functions.
-- Add tests for new functionality when possible.
-- Avoid hidden dependencies or hard-coded local paths.
-- Keep notebooks lightweight and reproducible.
-
-## Dataset standards
-
-Datasets should include:
-
-- schema description
-- data dictionary
-- source and license
-- preprocessing steps
-- quality-control notes
-- train/validation/test split policy where applicable
-- known limitations
-
-## Community standards
-
-All contributors are expected to follow the Code of Conduct.
+- Explain the scientific or software purpose of the change
+- Include reproducible steps where possible
+- Add citations for scientific claims
+- Avoid committing proprietary or sensitive data
+- Keep examples small and runnable

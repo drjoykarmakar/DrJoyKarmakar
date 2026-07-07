@@ -1,22 +1,3 @@
 # Security Policy
 
-JAI Lab repositories may include scientific software, datasets, notebooks, and computational workflows.
-
-## Reporting vulnerabilities
-
-Please report security concerns privately when possible. If private reporting is not available for a specific repository, open a minimal public issue that does not disclose exploit details.
-
-## Scope
-
-Security reports may include:
-
-- unsafe file handling
-- dependency vulnerabilities
-- credential leakage
-- unsafe execution of notebooks or scripts
-- model or dataset release risks
-- privacy or provenance concerns in datasets
-
-## Responsible disclosure
-
-Please allow maintainers time to investigate and address the issue before public disclosure.
+Please do not open public issues for sensitive security problems. Report vulnerabilities privately through GitHub security advisories when available, or contact the maintainer through the public website.

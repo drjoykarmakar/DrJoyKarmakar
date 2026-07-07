@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "JAI Lab GitHub Profile and Open Molecular Discovery Infrastructure"
+message: "If you use materials from this repository, please cite this profile and the relevant project repository."
+type: software
+authors:
+  - family-names: Karmakar
+    given-names: Joy
+    orcid: "https://orcid.org/0000-0002-8232-5639"
+repository-code: "https://github.com/drjoykarmakar/DrJoyKarmakar"
+url: "https://www.joykarmakar.com"
+license: MIT
+version: "1.0.0"
+date-released: "2026-07-07"
+keywords:
+  - molecular discovery
+  - medicinal chemistry
+  - fluorescent probes
+  - molecular AI
+  - open science
+  - cheminformatics

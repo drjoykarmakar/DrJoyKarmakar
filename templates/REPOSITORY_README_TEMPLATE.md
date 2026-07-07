@@ -1,31 +1,61 @@
-# Project Name
+# PROJECT_NAME
 
-> One-line description of what this project does and why it matters.
+> One-sentence description of the scientific problem and what this repository provides.
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-00D4FF.svg)](#roadmap)
 
 ## Why this exists
 
-Explain the scientific or technical problem.
+Describe the scientific problem, why it matters, and who should use this repository.
 
 ## What is included
 
-- data
-- notebooks
-- source code
-- documentation
-- examples
+- `data/` - dataset or example files
+- `notebooks/` - reproducible analysis notebooks
+- `src/` - reusable package code
+- `examples/` - quick examples
+- `docs/` - documentation
 
-## Quick start
+## Quickstart
 
 ```bash
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/drjoykarmakar/PROJECT_NAME.git
+cd PROJECT_NAME
+python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
+```
+
+## Example
+
+```bash
+python examples/run_example.py
 ```
 
 ## Reproducibility
 
-Describe data sources, versions, seeds, and environment requirements.
+Document:
+
+- data source
+- preprocessing steps
+- package versions
+- random seeds
+- model parameters
+- evaluation metrics
+
+## Limitations
+
+State known limitations clearly.
 
 ## Citation
 
-Add citation details here.
+If this repository supports a paper, dataset, or benchmark, cite it here.
+
+## Contributing
+
+See `CONTRIBUTING.md`.
+
+## License
+
+MIT unless otherwise specified.

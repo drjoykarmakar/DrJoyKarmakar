@@ -1,24 +1,63 @@
-# JAI Lab Brand Guide
+# JAI Lab brand guide
 
-## Core identity
+## Positioning
 
-JAI Lab builds open infrastructure for molecular discovery.
+JAI Lab is an open research initiative building infrastructure for molecular discovery: datasets, benchmarks, scientific software, molecular AI, and open documentation.
+
+## Core sentence
+
+> Building open infrastructure for molecular discovery.
+
+## Extended sentence
+
+> JAI Lab connects experimental chemistry, molecular sensing, drug discovery, spectroscopy, and AI to make molecular discovery reproducible, benchmarkable, programmable, and open.
 
 ## Voice
 
-Precise, scientific, ambitious, open, and useful.
+- Scientific, not hype-driven.
+- Ambitious, but grounded.
+- Clear enough for interdisciplinary collaborators.
+- Specific about artifacts: datasets, benchmarks, models, code, documentation.
+- Honest about limitations and validation status.
 
-## Color system
+## Visual system
 
-- Midnight: `#020617`
-- Deep blue: `#082F49`
-- Electric cyan: `#22D3EE`
-- Sky text: `#E0F2FE`
-- Slate: `#94A3B8`
-- White: `#FFFFFF`
+| Token | Value |
+|---|---|
+| Deep background | `#07111F` |
+| Panel | `#0B1730` |
+| Cyan accent | `#00D4FF` |
+| Cyan light | `#6EE7F9` |
+| Blue | `#2563EB` |
+| Violet | `#8B5CF6` |
+| Teal | `#14B8A6` |
+| Text | `#F8FAFC` |
+| Muted text | `#CBD5E1` |
 
-## Taglines
+## Typography
 
-- Open Infrastructure for Molecular Discovery
-- Building the open foundation for molecular AI
-- Datasets, benchmarks, models, and software for molecular discovery
+Use Inter or a system sans-serif stack:
+
+```css
+font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial, sans-serif;
+```
+
+## Project color map
+
+| Project | Accent |
+|---|---|
+| SensorGenome | Cyan |
+| DyeMind | Violet |
+| NarcoticSense AI | Blue |
+| AZAI | Teal |
+| BimaneDB | Green-cyan |
+| Molecular Discovery Suite | Emerald |
+| Open Science Tools | Slate-blue |
+
+## Badge style
+
+Use `style=for-the-badge` for profile badges and compact shields for repository badges.
+
+## Design rule
+
+The brand should feel like a serious research institute, not a startup pitch deck. Prefer clarity, restraint, and scientific credibility.

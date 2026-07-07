@@ -1,0 +1,41 @@
+name: Joy Karmakar
+credential: Ph.D.
+professional_identity: Medicinal chemist building open infrastructure for AI-powered molecular discovery.
+location_public: San Francisco
+website: https://www.joykarmakar.com
+github: https://github.com/drjoykarmakar
+orcid: https://orcid.org/0000-0002-8232-5639
+linkedin: https://www.linkedin.com/in/joykarmakarchem
+bluesky: https://bsky.app/profile/joykarmakar.com
+google_scholar: https://scholar.google.com/citations?user=uaIKU0oAAAAJ
+cv_metrics_as_of: June 2026
+peer_reviewed_publications: 8
+h_index: 6
+total_citations: 75
+research_areas:
+  - medicinal chemistry
+  - synthetic organic chemistry
+  - fluorescent probe development
+  - chemical biology
+  - ion transporter biology
+  - molecular docking
+  - QSAR
+  - AI/ML-guided molecular design
+  - open-source scientific software
+awards:
+  - UCSF PBBR Postdoctoral Independent Research Award, 2024
+  - ACS Postdoc to Faculty Workshop, 2025
+  - Harvard Business School Foundry Bootcamp, 2026
+  - Sigma Xi Full Member, 2026
+  - Excellence in Doctoral Research Award, 2022
+repositories:
+  - SensorGenome
+  - NarcoticSense-AI
+  - AZAI
+  - BimaneDB
+  - pendrin-qsar
+  - pendrin-hybrid
+  - cftr-qsar
+  - Paper-Organizer
+  - drjoykarmakar.github.io
+  - DrJoyKarmakar

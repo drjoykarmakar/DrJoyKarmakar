@@ -1,20 +1,22 @@
 {
-  "brand": {
-    "name": "JAI Lab",
-    "tagline": "Building the open foundation for AI-powered molecular discovery."
-  },
+  "brand": "JAI Lab",
   "colors": {
-    "midnight": "#050816",
-    "deepNavy": "#071B2F",
-    "electricCyan": "#00D4FF",
-    "emerald": "#10B981",
-    "violet": "#7C3AED",
-    "amber": "#F59E0B",
-    "slate": "#94A3B8",
-    "white": "#FFFFFF"
+    "background": "#07111F",
+    "panel": "#0B1730",
+    "panel2": "#0B2138",
+    "cyan": "#00D4FF",
+    "cyanLight": "#6EE7F9",
+    "blue": "#2563EB",
+    "violet": "#8B5CF6",
+    "teal": "#14B8A6",
+    "emerald": "#34D399",
+    "text": "#F8FAFC",
+    "mutedText": "#CBD5E1"
   },
-  "typography": {
-    "sans": ["Inter", "IBM Plex Sans", "Source Sans 3", "Arial", "sans-serif"],
-    "mono": ["JetBrains Mono", "IBM Plex Mono", "Fira Code", "monospace"]
-  }
+  "fonts": {
+    "primary": "Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial, sans-serif",
+    "mono": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+  },
+  "tagline": "Building open infrastructure for molecular discovery.",
+  "updated": "2026-07-07"
 }

@@ -1,22 +1,7 @@
-# Code of Conduct
+# Code of conduct
 
-JAI Lab projects are open scientific infrastructure. Contributors are expected to keep discussions respectful, evidence-based, inclusive, and focused on improving the work.
+Please keep discussions respectful, specific, and evidence-based.
 
-## Expected behavior
+These projects involve research code and scientific documentation. Good-faith corrections, questions, and limitations are welcome.
 
-- Be respectful and constructive.
-- Critique ideas, code, data, and documentation rather than people.
-- Clearly distinguish experimental evidence, opinion, speculation, and future work.
-- Give appropriate credit for scientific ideas, data, code, and prior work.
-- Help make the project understandable to chemists, biologists, data scientists, and software engineers.
-
-## Unacceptable behavior
-
-- Harassment, discrimination, personal attacks, or intimidation.
-- Posting private, confidential, proprietary, or sensitive data without permission.
-- Misrepresenting results, benchmarks, model performance, or experimental validation.
-- Using projects to facilitate illegal activity or unsafe chemical misuse.
-
-## Enforcement
-
-Maintainers may remove comments, close issues, reject contributions, or restrict participation when conduct harms the project or community.
+Unacceptable behavior includes harassment, personal attacks, or knowingly adding unsupported scientific claims.

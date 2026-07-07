@@ -1,36 +1,15 @@
-# Publication card: PAPER_TITLE
+# Publication card
 
 ## Citation
 
-Full citation.
+## DOI
 
-## Scientific question
+## What this paper reports
 
-What question did this paper answer?
+State the result plainly.
 
-## Key result
+## Related code or data
 
-What was the most important finding?
+## Notes for reuse
 
-## My role
-
-Describe contribution.
-
-## Related code
-
-Link to repository if available.
-
-## Related data
-
-Link to dataset if available.
-
-## Reproducibility status
-
-- [ ] code available
-- [ ] data available
-- [ ] environment documented
-- [ ] analysis reproduced
-
-## Notes
-
-Any limitations or future directions.
+## Limitations

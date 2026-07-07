@@ -1,17 +1,46 @@
-<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="g" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#07111F"/>
-    <stop offset="0.55" stop-color="#0A1D33"/>
-    <stop offset="1" stop-color="#111827"/>
-  </linearGradient>
-</defs>
-<rect width="1600" height="520" rx="38" fill="url(#g)"/>
-<circle cx="1300" cy="130" r="230" fill="#0B6EFD" opacity="0.18"/>
-<circle cx="260" cy="420" r="250" fill="#7C3AED" opacity="0.16"/>
-<path d="M120 370 C290 190, 470 470, 650 285 S960 220, 1160 320 S1370 410, 1490 220" stroke="#00D4FF" stroke-width="8" opacity="0.72" stroke-linecap="round"/>
-<text x="800" y="170" text-anchor="middle" fill="#EAF2FF" font-family="Inter, Arial, sans-serif" font-size="94" font-weight="850">JAI Lab</text>
-<text x="800" y="244" text-anchor="middle" fill="#EAF2FF" opacity="0.9" font-family="Inter, Arial, sans-serif" font-size="36">Building Open Infrastructure for Molecular Discovery</text>
-<text x="800" y="314" text-anchor="middle" fill="#00D4FF" font-family="Inter, Arial, sans-serif" font-size="25" letter-spacing="5">DATASETS · BENCHMARKS · AI SYSTEMS · CHEMISTRY · DRUG DISCOVERY</text>
-<text x="800" y="386" text-anchor="middle" fill="#9FB4CC" font-family="Inter, Arial, sans-serif" font-size="28">An open research initiative founded by Dr. Joy Karmakar</text>
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="JAI Lab hero">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.45" stop-color="#071B2F"/>
+      <stop offset="1" stop-color="#050816"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1220 125) rotate(130) scale(560 360)">
+      <stop stop-color="#00D4FF" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#00D4FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="260" y1="110" x2="1360" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4FF"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="520" rx="36" fill="url(#bg)"/>
+  <rect width="1600" height="520" rx="36" fill="url(#glow)"/>
+  <g opacity="0.25">
+    <path d="M0 420C210 340 330 460 515 360C690 265 790 135 990 215C1185 293 1325 225 1600 120" stroke="url(#line)" stroke-width="4"/>
+    <path d="M0 335C235 270 340 365 540 290C735 218 842 92 1035 150C1230 208 1368 155 1600 68" stroke="#00D4FF" stroke-opacity="0.4" stroke-width="2"/>
+  </g>
+  <g transform="translate(96 90)">
+    <text x="0" y="95" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="86" font-weight="800" letter-spacing="-2">JAI Lab</text>
+    <text x="0" y="160" fill="#A7F3D0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">Open Infrastructure for Molecular Discovery</text>
+    <text x="0" y="220" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25">Datasets · Benchmarks · Scientific Software · Molecular AI</text>
+    <g transform="translate(0 275)">
+      <rect x="0" y="0" width="260" height="54" rx="27" fill="#00D4FF" fill-opacity="0.14" stroke="#00D4FF" stroke-opacity="0.55"/>
+      <text x="29" y="36" fill="#E0F2FE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Machine-readable science</text>
+      <rect x="282" y="0" width="210" height="54" rx="27" fill="#10B981" fill-opacity="0.14" stroke="#10B981" stroke-opacity="0.55"/>
+      <text x="313" y="36" fill="#D1FAE5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Benchmark-first</text>
+      <rect x="514" y="0" width="178" height="54" rx="27" fill="#7C3AED" fill-opacity="0.15" stroke="#A78BFA" stroke-opacity="0.55"/>
+      <text x="546" y="36" fill="#EDE9FE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Open science</text>
+    </g>
+  </g>
+  <g transform="translate(1110 125)" opacity="0.95">
+    <circle cx="120" cy="120" r="92" fill="#00D4FF" fill-opacity="0.08" stroke="#00D4FF" stroke-opacity="0.55" stroke-width="2"/>
+    <circle cx="60" cy="80" r="18" fill="#00D4FF"/>
+    <circle cx="178" cy="78" r="18" fill="#10B981"/>
+    <circle cx="185" cy="172" r="18" fill="#A78BFA"/>
+    <circle cx="72" cy="185" r="18" fill="#F59E0B"/>
+    <circle cx="120" cy="128" r="26" fill="#FFFFFF" fill-opacity="0.95"/>
+    <path d="M76 90L120 128L172 88M120 128L181 166M120 128L78 178" stroke="#DFFBFF" stroke-width="8" stroke-linecap="round"/>
+  </g>
 </svg>

@@ -1,6 +1,7 @@
-<svg width="1600" height="220" viewBox="0 0 1600 220" xmlns="http://www.w3.org/2000/svg">
-<rect width="1600" height="220" rx="30" fill="#07111F"/>
-<path d="M0 150 C260 80, 430 210, 690 135 S1090 70, 1600 150 V220 H0 Z" fill="#0B6EFD" opacity="0.24"/>
-<text x="800" y="88" text-anchor="middle" fill="#EAF2FF" font-family="Inter, Arial" font-size="34" font-weight="800">The future of molecular discovery needs better scientific infrastructure.</text>
-<text x="800" y="140" text-anchor="middle" fill="#00D4FF" font-family="Inter, Arial" font-size="24">JAI Lab · Open Science · Molecular Discovery</text>
+<svg width="1600" height="220" viewBox="0 0 1600 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="JAI Lab footer">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1600" y2="220"><stop stop-color="#050816"/><stop offset="0.5" stop-color="#071B2F"/><stop offset="1" stop-color="#050816"/></linearGradient></defs>
+  <rect width="1600" height="220" rx="32" fill="url(#g)"/>
+  <text x="800" y="92" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="800">JAI Lab</text>
+  <text x="800" y="138" text-anchor="middle" fill="#A7F3D0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Making molecular discovery reproducible, programmable, and collaborative.</text>
+  <path d="M380 170H1220" stroke="#00D4FF" stroke-opacity="0.45" stroke-width="3" stroke-linecap="round"/>
 </svg>

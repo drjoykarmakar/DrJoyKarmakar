@@ -1,28 +1,42 @@
-<svg width="1600" height="860" viewBox="0 0 1600 860" xmlns="http://www.w3.org/2000/svg">
-<rect width="1600" height="860" rx="34" fill="#07111F"/>
-<text x="800" y="80" text-anchor="middle" fill="#EAF2FF" font-family="Inter, Arial" font-size="52" font-weight="800">JAI Lab Research Ecosystem</text>
-<text x="800" y="124" text-anchor="middle" fill="#9FB4CC" font-family="Inter, Arial" font-size="24">Open infrastructure connecting experiments, datasets, benchmarks, models, and translation</text>
-<g font-family="Inter, Arial" font-size="26" font-weight="700">
-<rect x="620" y="180" width="360" height="96" rx="22" fill="#0D1B2A" stroke="#00D4FF" stroke-width="3"/>
-<text x="800" y="240" text-anchor="middle" fill="#EAF2FF">JAI Lab</text>
-<rect x="120" y="390" width="330" height="100" rx="22" fill="#0D1B2A" stroke="#00D4FF" stroke-width="3"/>
-<text x="285" y="431" text-anchor="middle" fill="#EAF2FF">Infrastructure</text>
-<text x="285" y="462" text-anchor="middle" fill="#9FB4CC" font-size="18" font-weight="500">SensorGenome · BimaneDB</text>
-<rect x="635" y="390" width="330" height="100" rx="22" fill="#0D1B2A" stroke="#7C3AED" stroke-width="3"/>
-<text x="800" y="431" text-anchor="middle" fill="#EAF2FF">Molecular AI</text>
-<text x="800" y="462" text-anchor="middle" fill="#9FB4CC" font-size="18" font-weight="500">DyeMind · Benchmarks</text>
-<rect x="1150" y="390" width="330" height="100" rx="22" fill="#0D1B2A" stroke="#0B6EFD" stroke-width="3"/>
-<text x="1315" y="431" text-anchor="middle" fill="#EAF2FF">Translation</text>
-<text x="1315" y="462" text-anchor="middle" fill="#9FB4CC" font-size="18" font-weight="500">Drug Discovery · QSAR</text>
-<rect x="110" y="620" width="310" height="90" rx="20" fill="#111827" stroke="#1F6FEB"/>
-<text x="265" y="674" text-anchor="middle" fill="#EAF2FF">SensorGenome</text>
-<rect x="460" y="620" width="310" height="90" rx="20" fill="#111827" stroke="#1F6FEB"/>
-<text x="615" y="674" text-anchor="middle" fill="#EAF2FF">AZAI</text>
-<rect x="810" y="620" width="310" height="90" rx="20" fill="#111827" stroke="#1F6FEB"/>
-<text x="965" y="674" text-anchor="middle" fill="#EAF2FF">NarcoticSense AI</text>
-<rect x="1160" y="620" width="310" height="90" rx="20" fill="#111827" stroke="#1F6FEB"/>
-<text x="1315" y="674" text-anchor="middle" fill="#EAF2FF">Pendrin · CFTR</text>
-</g>
-<path d="M800 276 V335 M800 335 H285 V390 M800 335 V390 M800 335 H1315 V390" stroke="#9FB4CC" stroke-width="4"/>
-<path d="M285 490 V560 H265 V620 M285 560 H615 V620 M800 490 V560 H965 V620 M1315 490 V620" stroke="#9FB4CC" stroke-width="4"/>
+<svg width="1600" height="720" viewBox="0 0 1600 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="JAI Lab ecosystem">
+  <rect width="1600" height="720" rx="36" fill="#050816"/>
+  <text x="800" y="82" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800">JAI Lab Research Ecosystem</text>
+  <text x="800" y="126" text-anchor="middle" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">From experimental chemistry to datasets, benchmarks, models, and validated tools</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="640" y="255" width="320" height="150" rx="28" fill="#071B2F" stroke="#00D4FF" stroke-width="3"/>
+    <text x="800" y="318" text-anchor="middle" fill="#FFFFFF" font-size="36" font-weight="800">JAI Lab</text>
+    <text x="800" y="360" text-anchor="middle" fill="#BAE6FD" font-size="20">Open molecular discovery infrastructure</text>
+    <g fill="#071B2F" stroke-width="2.5">
+      <rect x="95" y="185" width="330" height="112" rx="24" stroke="#00D4FF"/>
+      <rect x="95" y="423" width="330" height="112" rx="24" stroke="#F472B6"/>
+      <rect x="635" y="515" width="330" height="112" rx="24" stroke="#10B981"/>
+      <rect x="1175" y="185" width="330" height="112" rx="24" stroke="#F59E0B"/>
+      <rect x="1175" y="423" width="330" height="112" rx="24" stroke="#A78BFA"/>
+      <rect x="635" y="150" width="330" height="86" rx="24" stroke="#60A5FA"/>
+    </g>
+    <g font-size="24" font-weight="800" fill="#FFFFFF">
+      <text x="260" y="236" text-anchor="middle">SensorGenome</text>
+      <text x="260" y="474" text-anchor="middle">DyeMind</text>
+      <text x="800" y="566" text-anchor="middle">Molecular Discovery Suite</text>
+      <text x="1340" y="236" text-anchor="middle">AZAI</text>
+      <text x="1340" y="474" text-anchor="middle">NarcoticSense AI</text>
+      <text x="800" y="202" text-anchor="middle">Open Science Tools</text>
+    </g>
+    <g font-size="17" fill="#CBD5E1">
+      <text x="260" y="266" text-anchor="middle">molecular sensing benchmarks</text>
+      <text x="260" y="504" text-anchor="middle">fluorescent probe AI</text>
+      <text x="800" y="596" text-anchor="middle">QSAR · docking · SAR · ADMET</text>
+      <text x="1340" y="266" text-anchor="middle">xylazine analytics</text>
+      <text x="1340" y="504" text-anchor="middle">spectroscopy + chemometrics</text>
+      <text x="800" y="225" text-anchor="middle">schemas · templates · documentation</text>
+    </g>
+    <g stroke="#334155" stroke-width="3">
+      <path d="M640 310H425"/>
+      <path d="M640 360H425"/>
+      <path d="M800 405V515"/>
+      <path d="M960 310H1175"/>
+      <path d="M960 360H1175"/>
+      <path d="M800 255V236"/>
+    </g>
+  </g>
 </svg>

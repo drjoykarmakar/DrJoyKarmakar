@@ -2,7 +2,7 @@
 
 <img src="assets/svg/jai-lab-hero.svg" width="100%" alt="JAI Lab - Open Infrastructure for Molecular Discovery" />
 
-# Joy Karmakar, Ph.D.
+# Dr. Joy Karmakar
 
 ### Medicinal chemist building open infrastructure for AI-powered molecular discovery.
 

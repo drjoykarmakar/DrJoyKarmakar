@@ -17,9 +17,9 @@
 
 ## Profile
 
-I am a medicinal chemist with postdoctoral research experience in the School of Medicine at the University of California, San Francisco. My work has focused on small-molecule modulators of ion transporters, bimane-based fluorescent probes, and the use of computational methods to organize and screen chemical data.
+I am a medicinal chemist with postdoctoral research experience in the School of Medicine at the University of California, San Francisco. My work has focused on small-molecule modulators of ion transporters, bimane-based fluorescent probes, and computational methods for organizing and screening chemical data.
 
-My GitHub is a place for research code, small curated datasets, analysis notebooks, and documentation for projects that can be shared publicly. I am interested in the practical question of how chemical experiments can be recorded in a way that is easier for other researchers, and for computational tools, to reuse.
+My GitHub is a place for research code, small curated datasets, analysis notebooks, and documentation for projects that can be shared publicly. I am interested in the practical question of how chemical experiments can be recorded in a way that is easier for other researchers and for computational tools to reuse.
 
 ---
 
@@ -27,7 +27,7 @@ My GitHub is a place for research code, small curated datasets, analysis noteboo
 
 **JAI Research Projects** is the name I use for a set of public research projects that connect synthetic chemistry, molecular sensing, spectroscopy, cheminformatics, and machine learning.
 
-It is not a formal organization. It is a public workspace for code, data notes, and research tools that I maintain as part of my scientific work.
+It is a public workspace for code, data, notes, and research tools that I maintain as part of my scientific work.
 
 <div align="center">
 

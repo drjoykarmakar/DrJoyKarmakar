@@ -1,0 +1,14 @@
+<svg width="1400" height="440" viewBox="0 0 1400 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Repository structure for research projects">
+  <title>Repository structure</title>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1400" y2="440"><stop stop-color="#07111F"/><stop offset="1" stop-color="#0B1728"/></linearGradient><style>.title{font:800 32px Inter,system-ui,Segoe UI,Arial;fill:#F8FAFC}.text{font:500 17px Inter,system-ui,Segoe UI,Arial;fill:#CBD5E1}.label{font:700 18px Inter,system-ui,Segoe UI,Arial;fill:#F8FAFC}.mono{font:700 14px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#67E8F9}</style></defs>
+  <rect width="1400" height="440" rx="30" fill="url(#bg)"/>
+  <text x="700" y="70" text-anchor="middle" class="title">Repository structure</text>
+  <text x="700" y="104" text-anchor="middle" class="text">A simple layout for research code that another person can inspect and reuse</text>
+  <g transform="translate(95 158)"><rect width="210" height="105" rx="18" fill="#0B2138" stroke="#22D3EE"/><text x="105" y="42" text-anchor="middle" class="label">Question</text><text x="105" y="73" text-anchor="middle" class="mono">README.md</text></g>
+  <g transform="translate(330 158)"><rect width="210" height="105" rx="18" fill="#0B2138" stroke="#60A5FA"/><text x="105" y="42" text-anchor="middle" class="label">Data</text><text x="105" y="73" text-anchor="middle" class="mono">data/</text></g>
+  <g transform="translate(565 158)"><rect width="210" height="105" rx="18" fill="#0B2138" stroke="#A78BFA"/><text x="105" y="42" text-anchor="middle" class="label">Analysis</text><text x="105" y="73" text-anchor="middle" class="mono">notebooks/</text></g>
+  <g transform="translate(800 158)"><rect width="210" height="105" rx="18" fill="#0B2138" stroke="#2DD4BF"/><text x="105" y="42" text-anchor="middle" class="label">Code</text><text x="105" y="73" text-anchor="middle" class="mono">src/</text></g>
+  <g transform="translate(1035 158)"><rect width="270" height="105" rx="18" fill="#0B2138" stroke="#818CF8"/><text x="135" y="42" text-anchor="middle" class="label">Limitations and citation</text><text x="135" y="73" text-anchor="middle" class="mono">docs/ · CITATION.cff</text></g>
+  <path d="M305 210 H330 M540 210 H565 M775 210 H800 M1010 210 H1035" stroke="#38BDF8" stroke-width="2"/>
+  <text x="700" y="334" text-anchor="middle" class="text">The goal is not to make every project large. The goal is to make each one understandable.</text>
+</svg>
